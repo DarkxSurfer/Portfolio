@@ -1,0 +1,140 @@
+{
+    "basic": {
+        "firstName": "Meezaab",
+        "lastName": "Rehmat.",
+        "age": 19,
+        "email": "darkxurfer@gmail.com",
+        "phone": "+92 342 3004488",
+        "address": "Karachi, PK",
+        "photos": [
+            "images/photos/bw.png",
+            "images/photos/colored.png",
+            "images/photos/mobile.png"
+        ],
+        "resume": "https://drive.google.com/file/d/1o3G3EEwHbkmU3gV0UITQQAsA8HAXuzNo/view?usp=drive_link"
+    },
+    "socials": [
+        {
+            "icon": "fa-brands fa-square-facebook",
+            "url": "https://www.facebook.com/meezaab"
+        },
+        {
+            "icon": "fa-brands fa-linkedin",
+            "url": "https://www.linkedin.com/in/darksurfer/"
+        },
+        {
+            "icon": "fa-brands fa-github",
+            "url": "https://github.com/DarkxSurfer"
+        },
+        {
+            "icon": "fa-brands fa-x-twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "icon": "fa-brands fa-instagram",
+            "url": "https://www.instagram.com/thats_meez/"
+        },
+        {
+            "icon": "fa-brands fa-medium",
+            "url": "https://medium.com/@darkxurfer"
+        }
+    ],
+    "about": {
+        "heading": "I'm Meezaab-e-Rehmat, a Flutter Developer, FreeLancer and UI/UX Designer.",
+        "description": "I'm a fresh graduate with Computer Science as Majors from COMSATS University Islamabad. I have been working with Flutter for the past 2 years and have developed multiple applications for both Android and iOS platforms. I have a keen interest in UI/UX designing and have been working on it for the past 3 years. I have also been writing technical blogs for the past 2 years and have been a part of multiple technical writing communities.",
+        "tech": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "UI/UX",
+            "Git/Github"
+        ],
+        "works": [
+            {
+                "image": "images/work/cui.png",
+                "url": "https://www.comsats.edu.pk/",
+                "height": 50
+            },
+            {
+                "image": "images/work/dsc.png",
+                "url": "https://developers.google.com/community/dsc",
+                "height": 30
+            },
+            {
+                "image": "images/work/flutterIsl.png",
+                "url": "https://meetup.com/flutter-islamabad",
+                "height": 60
+            },
+            {
+                "image": "images/work/st.png",
+                "url": "https://www.sastaticket.pk/",
+                "height": 60
+            }
+        ]
+    },
+    "services": [
+        {
+            "icon": "images/services/app.png",
+            "title": "Mobile Development"
+        },
+        {
+            "icon": "images/services/ui.png",
+            "title": "UI/UX Design"
+        },
+        {
+            "icon": "images/services/rapid.png",
+            "title": "Rapid Prototyping"
+        },
+        {
+            "icon": "images/services/blog.png",
+            "title": "Technical Writing"
+        },
+        {
+            "icon": "images/services/open.png",
+            "title": "Open Source - GitHub"
+        }
+    ],
+    "projects": [
+        {
+            "banner": "images/projects/Teegram.png",
+            "icon": "images/projects/TeegramL.png",
+            "title": "Teegram",
+            "description": "Teegram is a modern ecommerce application designed for users to browse, customize, and purchase Clothings.",
+            "link": "https://github.com/DarkxSurfer/Teegram-Ecommerce-App"
+        },
+        {
+            "banner": "images/projects/MyWeather.jpg",
+            "icon": "images/projects/MyWeatherL.jpg",
+            "title": "MyWeather",
+            "description": "My Weather is a Flutter application designed to provide real-time weather information for famous cities around the world.",
+            "link": "https://github.com/DarkxSurfer/My_Weather"
+        },
+        {
+            "banner": "images/projects/Taskcy.png",
+            "icon": "images/projects/TaskcyL.png",
+            "title": "Taskcy",
+            "description": "Taskcy is a powerful and intuitive task management app that helps users stay organized, productive, and connected.",
+            "link": "https://github.com/DarkxSurfer/Taskcy"
+        }
+    ],
+    "contact": [
+        {
+            "icon": "fa-duotone fa-solid fa-house",
+            "title": "Location",
+            "description": "Karachi, PK",
+            "action": "https://maps.app.goo.gl/8sthYbUzmoXsJp1R9"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-phone",
+            "title": "Phone",
+            "description": "+92 342 3004488",
+            "action": "https://wa.me/923423004488/"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-envelope",
+            "title": "Email",
+            "description": "darkxurfer@gmail.com",
+            "action": "mailto:darkxurfer@gmail.com"
+        }
+    ]
+}
