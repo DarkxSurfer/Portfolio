@@ -39,7 +39,7 @@ void main() {
     charset: 'utf-8',
     viewport: 'width=device-width, initial-scale=1, shrink-to-fit=no',
     meta: {
-      "og:title": "Hamza - Random Dude!",
+      "og:title": "Meezaab - Random Dude!",
       "og:url": "https://www.mhmz.dev",
     },
     lang: 'en',
